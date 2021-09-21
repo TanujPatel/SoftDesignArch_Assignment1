@@ -3,7 +3,7 @@
 
 # **Table of Contents**
 1. [Code](Code)
-    - [Code Files](Code/SoftDesign_Assignment1)
+    - [Code Files](Code/SoftDesign_Assignment1.zip)
     - [Output](Code/output.png)
 
 2. [Test](Test)
